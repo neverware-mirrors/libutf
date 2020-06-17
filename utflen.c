@@ -34,5 +34,4 @@ utflen(const char *s)
 			s += chartorune(&rune, s);
 		n++;
 	}
-	return 0;
 }

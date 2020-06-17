@@ -42,5 +42,4 @@ utfrune(const char *s, Rune c)
 			return s;
 		s += n;
 	}
-	return 0;
 }

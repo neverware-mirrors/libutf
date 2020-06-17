@@ -43,5 +43,4 @@ utfrrune(const char *s, Rune c)
 			s1 = s;
 		s += c1;
 	}
-	return 0;
 }
